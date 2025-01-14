@@ -1,7 +1,7 @@
 # app-LD
 https://github.com/ldolic1/app-LD
 SELECT knjiga.naslov
-/FROM knjiga
-/JOIN autor ON knjiga.autor = autor.id
-/WHERE autor.prezime_ime = 'Brlic-Mazuranic Ivana'
-/ORDER BY knjiga.naslov ASC;
+n/FROM knjiga
+n/JOIN autor ON knjiga.autor = autor.id
+n/WHERE autor.prezime_ime = 'Brlic-Mazuranic Ivana'
+n/ORDER BY knjiga.naslov ASC;
